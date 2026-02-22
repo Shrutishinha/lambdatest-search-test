@@ -1,127 +1,153 @@
-# 🌐 Website Testing Automation System
+# 🌐 Website Testing Automation Engine
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Automated+Website+Validation;AI+Driven+Test+Generation;Parallel+Cloud+Execution;Cross+Browser+Testing+Matrix;Continuous+Integration+Ready" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=AI+Powered+Automation+Framework;Real-Time+Website+Validation;Parallel+Cloud+Test+Execution;Cross-Browser+Quality+Assurance;CI%2FCD+Integrated+Testing+Pipeline" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Automation-Selenium-0ea5e9?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-KaneAI-22c55e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Execution-HyperExecute-f97316?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-LambdaTest-7c3aed?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Test%20Coverage-High-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Test%20Status-Passing-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Execution-Parallel-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Driven-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Enabled-0ea5e9?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔁 Automated Testing Lifecycle
+# 🧠 What This System Does
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500"/>
+</p>
+
+This framework automatically:
+
+✔ Detects UI changes  
+✔ Validates search & navigation  
+✔ Verifies form submissions  
+✔ Confirms cross-browser consistency  
+✔ Captures screenshots on failure  
+✔ Generates structured reports  
+
+It simulates real user behavior — but faster, smarter, and in parallel.
+
+---
+
+# 🔁 Live Testing Lifecycle (Automation in Motion)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="500"/>
 </p>
 
 ```text
-┌─────────────────────────────┐
-│  Code Commit / Trigger      │
-└──────────────┬──────────────┘
-               ▼
-     AI Test Case Generation
-          (KaneAI Engine)
-               ▼
-     Selenium Automation Layer
-               ▼
-     Parallel Execution Engine
-          (HyperExecute)
-               ▼
-     Cross Browser Grid
-          (LambdaTest Cloud)
-               ▼
-     Assertions & Validation
-               ▼
-     Screenshot + Logs Capture
-               ▼
-     Real-Time Reporting
-               ▼
-     CI/CD Feedback Loop
-🌍 Cross-Browser Execution Matrix
-<p align="center"> <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/> </p>
-Chrome   ✔
-Firefox  ✔
-Edge     ✔
-Safari   ✔
-Multiple OS Environments ✔
-Parallel Sessions        ✔
+Developer Pushes Code
+        │
+        ▼
+CI Pipeline Triggered
+        │
+        ▼
+AI Generates Test Cases
+        │
+        ▼
+Selenium Executes Actions
+        │
+        ▼
+HyperExecute Runs Parallel Sessions
+        │
+        ▼
+LambdaTest Validates Browsers
+        │
+        ▼
+Assertions + Screenshot Capture
+        │
+        ▼
+Report Published to Dashboard
 
-Ensures consistent UI behavior across browsers and operating systems.
+Every execution cycle feeds back into build validation.
 
-🧪 Real-Time Validation Flow
-Launch Browser  →  Navigate URL
-      ↓
-Locate Elements →  Perform Actions
-      ↓
-Validate Assertions
-      ↓
-Compare Expected vs Actual
-      ↓
-Capture Evidence (Screenshots + Logs)
-      ↓
-Mark Pass / Fail
-⚡ Intelligent Execution Features
+🌍 Cross-Browser Simulation Matrix
+<p align="center"> <img src="https://media.giphy.com/media/26gsspfbt1HfVQ9va/giphy.gif" width="500"/> </p>
+Chrome   ██████████ 100%
+Firefox  ██████████ 100%
+Edge     ██████████ 100%
+Safari   ██████████ 100%
 
-• AI-powered scenario generation
-• Smart waits & synchronization
-• Dynamic element handling
-• Retry mechanism for flaky tests
-• Parallel distributed execution
-• Scalable cloud infrastructure
+Operating Systems Tested:
+✔ Windows
+✔ macOS
+✔ Linux
 
-📊 Animated Reporting Pipeline
+Parallel cloud execution reduces test time dramatically.
+
+🧪 Real User Simulation Flow
+Open Website
+   ↓
+Locate Dynamic Elements
+   ↓
+Input Test Data
+   ↓
+Trigger Actions
+   ↓
+Validate Expected Output
+   ↓
+Capture Logs + Screenshots
+   ↓
+Mark PASS / FAIL
+
+Built to handle:
+
+• Dynamic DOM updates
+• Delayed loading components
+• Asynchronous requests
+• Edge-case validations
+
+📊 Smart Reporting Engine
 <p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/> </p>
-Test Execution Completed
-        ↓
-Execution Metrics Calculated
-        ↓
-Pass / Fail Summary Generated
-        ↓
-Artifacts Uploaded
-        ↓
-Cloud Dashboard Updated
 
-Reports stored in:
+After execution:
+
+✔ Execution Summary Generated
+✔ Browser Capabilities Logged
+✔ Screenshots Attached
+✔ Failure Stack Trace Stored
+✔ Cloud Dashboard Updated
+
+Artifacts stored in:
 
 /reports/
+⚙️ Execution Commands
+# Install dependencies
+pip install -r requirements.txt
 
-Includes:
-
-• Execution summary
-• Screenshots
-• Browser session details
-• Logs
-• Failure trace analysis
-
-🔐 Secure Configuration
-# Environment Variables
+# Set secure environment credentials
 setx LT_USERNAME "your_username"
 setx LT_ACCESS_KEY "your_access_key"
 
-✔ No hardcoded secrets
-✔ Encrypted cloud authentication
-✔ Secure CI token integration
+# Run on Cloud (Parallel Execution)
+hyperexecute --config hyperexecute.yaml
 
-🔄 CI/CD Pipeline Integration
-Developer Push
-      ↓
-CI Pipeline Trigger
-      ↓
-Automated Test Execution
-      ↓
-Build Validation
-      ↓
-Deployment Approval
+# Run Locally
+python tests/main_test.py
+🔐 Security & Stability
 
-Compatible with GitHub Actions, Jenkins, GitLab CI, and Azure DevOps.
+• Environment-based credential management
+• No hardcoded secrets
+• Retry logic for flaky tests
+• Optimized locator strategies
+• Smart wait mechanisms
 
-🏗 Project Structure
+🚀 CI/CD Integration Pipeline
+Commit → Build → Test → Validate → Deploy
+          │
+          └── If Failed → Block Deployment
+
+Supported:
+
+• GitHub Actions
+• Jenkins
+• GitLab CI
+• Azure DevOps
+
+🏗 Project Architecture
 website-testing/
 │
 ├── tests/
@@ -130,18 +156,9 @@ website-testing/
 ├── reports/
 ├── hyperexecute.yaml
 └── requirements.txt
-▶ Execution Commands
-# Install Dependencies
-pip install -r requirements.txt
-
-# Cloud Execution
-hyperexecute --config hyperexecute.yaml
-
-# Local Execution
-python tests/main_test.py
 👩‍💻 Author
 
 Shruti Sinha
-AI-Powered Automation Engineer
+Automation Engineer | AI Testing Enthusiast
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8B5CF6&height=140&section=footer"/> </p> ```
