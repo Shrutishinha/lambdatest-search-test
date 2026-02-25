@@ -1,141 +1,141 @@
-# 🌐 Website Testing Automation Engine  
+# 🚀 Website Testing Automation Engine  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=00F5FF&center=true&vCenter=true&width=1000&lines=AI+Powered+Website+Automation;Intelligent+Test+Generation;Parallel+Cloud+Execution;Cross-Browser+Validation+Engine;CI%2FCD+Integrated+Quality+Pipeline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=AI+Driven+Automation+Engine;Parallel+Cloud+Test+Execution;Cross-Browser+Validation+Matrix;CI%2FCD+Integrated+Quality+Pipeline;High-Performance+Testing+Architecture" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Test%20Status-Passing-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Build-Stable-00C853?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Execution-Parallel-FF6D00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Driven-7C4DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Distributed-00B0FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stability-High-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Enabled-00B0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Smart%20Logic-7C4DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-Advanced-0091EA?style=for-the-badge"/>
 </p>
 
 ---
 
-# ⚡ System Overview
+# ⚡ Intelligent Testing System
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="520"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
 </p>
 
-## 🚀 Intelligent Automation Framework
-
-This engine simulates real user behavior — with AI precision and cloud scalability.
-
-### 🔍 Automated Capabilities
+## 🎯 What This Engine Does
 
 ✔ Detects dynamic UI changes  
 ✔ Validates search & navigation flows  
-✔ Tests form submissions & edge cases  
-✔ Executes cross-browser validation  
-✔ Captures screenshots on failures  
-✔ Logs stack traces & execution metadata  
-✔ Generates structured cloud reports  
+✔ Executes automated form testing  
+✔ Runs cross-browser compatibility checks  
+✔ Captures screenshots on failure  
+✔ Generates structured execution reports  
+✔ Logs stack traces with metadata  
+
+Designed to simulate real users — at machine speed.
 
 ---
 
-# 🔁 Automation Lifecycle (Live Execution Flow)
+# 🔁 Automation Lifecycle Engine
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="520"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F5FF,100:7C4DFF&height=120&section=header&text=Live%20Execution%20Flow&fontColor=ffffff&fontSize=30"/>
 </p>
 
 ```text
 Developer Push
       │
       ▼
-CI/CD Trigger
+CI/CD Triggered
       │
       ▼
 AI Test Case Generation
       │
       ▼
-Selenium Action Execution
+Selenium Execution Layer
       │
       ▼
-HyperExecute Parallel Grid
+Parallel Cloud Grid
       │
       ▼
-LambdaTest Cross-Browser Cloud
+Cross-Browser Validation
       │
       ▼
-Assertions + Screenshot Capture
+Assertions + Screenshots
       │
       ▼
-Live Dashboard Reporting
+Real-Time Dashboard Reporting
 ```
 
-Every execution cycle feeds quality metrics back into build validation.
+Every cycle strengthens build reliability.
 
 ---
 
-# 🌍 Cross-Browser Simulation Matrix
+# 🌍 Cross-Browser Gadget Matrix
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsspfbt1HfVQ9va/giphy.gif" width="520"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=header&text=Browser%20Coverage&fontColor=ffffff&fontSize=28"/>
 </p>
 
-```text
-Chrome   ██████████ 100%
-Firefox  ██████████ 100%
-Edge     ██████████ 100%
-Safari   ██████████ 100%
+```
+Chrome    ██████████ 100%
+Firefox   ██████████ 100%
+Edge      ██████████ 100%
+Safari    ██████████ 100%
 ```
 
-### 🖥 Operating Systems Coverage
+### 🖥 Supported Operating Systems
 
 ✔ Windows  
 ✔ macOS  
 ✔ Linux  
 
-Parallel cloud execution drastically reduces runtime.
+Parallel execution drastically reduces total runtime.
 
 ---
 
-# 🧪 Real User Simulation Engine
+# 🧪 Real User Simulation Flow
 
 ```text
-Open Website
-     ↓
+Initialize Session
+      ↓
+Load Web Application
+      ↓
 Locate Dynamic Elements
-     ↓
+      ↓
 Inject Test Data
-     ↓
-Trigger UI Actions
-     ↓
-Validate Expected State
-     ↓
-Capture Logs + Screenshots
-     ↓
+      ↓
+Trigger UI Events
+      ↓
+Validate Expected Results
+      ↓
+Capture Logs + Evidence
+      ↓
 Mark PASS / FAIL
 ```
 
-### Handles Complex Scenarios
+### Handles Advanced Scenarios
 
 • Dynamic DOM updates  
 • Lazy-loaded components  
-• Asynchronous requests  
-• Stale element handling  
+• Async API responses  
+• Stale elements  
 • Edge-case validations  
-• Flaky test auto-retries  
+• Retry logic for flaky tests  
 
 ---
 
-# 📊 Smart Reporting Engine
+# 📊 Smart Reporting Dashboard
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="520"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4350,100:A43931&height=3"/>
 </p>
 
 After each execution:
 
-✔ Summary report generated  
+✔ Execution summary generated  
 ✔ Browser capabilities logged  
-✔ Failure stack traces attached  
-✔ Screenshot evidence embedded  
-✔ Cloud dashboard auto-updated  
+✔ Failure screenshots attached  
+✔ Stack traces recorded  
+✔ Cloud dashboard updated  
 
 Artifacts stored in:
 
@@ -151,39 +151,39 @@ Artifacts stored in:
 # Install dependencies
 pip install -r requirements.txt
 
-# Set secure environment credentials
+# Set secure credentials
 setx LT_USERNAME "your_username"
 setx LT_ACCESS_KEY "your_access_key"
 
-# Run on Cloud (Parallel Execution)
+# Execute on Cloud (Parallel Mode)
 hyperexecute --config hyperexecute.yaml
 
-# Run Locally
+# Execute Locally
 python tests/main_test.py
 ```
 
 ---
 
-# 🔐 Security & Stability Architecture
+# 🔐 Security & Stability Layer
 
 • Environment-based credential management  
 • No hardcoded secrets  
-• Intelligent wait strategies  
-• Optimized locator architecture  
-• Retry logic for flaky test resilience  
-• Parallel-safe execution design  
+• Optimized locator strategies  
+• Intelligent wait mechanisms  
+• Auto-retry for unstable tests  
+• Parallel-safe architecture  
 
 ---
 
 # 🚀 CI/CD Integration Pipeline
 
-```text
+```
 Commit → Build → Test → Validate → Deploy
-                │
-                └── If Failed → Block Deployment
+                 │
+                 └── On Failure → Deployment Blocked
 ```
 
-### Supported Pipelines
+### Compatible With
 
 • GitHub Actions  
 • Jenkins  
@@ -192,9 +192,9 @@ Commit → Build → Test → Validate → Deploy
 
 ---
 
-# 🏗 Project Architecture
+# 🏗 Architecture Structure
 
-```text
+```
 website-testing/
 │
 ├── tests/
@@ -207,12 +207,12 @@ website-testing/
 
 ---
 
-# 🧠 Technical Highlights
+# 💎 Technical Highlights
 
 ✨ AI-assisted test logic  
-✨ Cloud-native parallel grid execution  
+✨ Cloud-native parallel execution  
 ✨ Cross-browser capability mapping  
-✨ Smart assertion handling  
+✨ Smart assertion framework  
 ✨ CI/CD quality gating  
 ✨ Scalable automation architecture  
 
@@ -223,8 +223,6 @@ website-testing/
 Shruti Sinha  
 Automation Engineer | AI Testing Enthusiast  
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8B5CF6&height=160&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C4DFF&height=140&section=footer"/>
 </p>
