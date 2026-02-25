@@ -1,56 +1,65 @@
-# 🚀 Website Testing Automation Engine  
+# 🌐 WEBSITE TESTING AUTOMATION ENGINE
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=AI+Driven+Automation+Engine;Parallel+Cloud+Test+Execution;Cross-Browser+Validation+Matrix;CI%2FCD+Integrated+Quality+Pipeline;High-Performance+Testing+Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&pause=700&color=00F5FF&center=true&vCenter=true&width=1100&lines=AI+Powered+Automation+Framework;Intelligent+Website+Validation;Parallel+Cloud+Execution+Engine;Cross-Browser+Quality+Matrix;CI%2FCD+Integrated+Pipeline;High-Performance+Test+Architecture" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build-Stable-00C853?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Execution-Parallel-FF6D00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Enabled-00B0FF?style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:00F5FF,50:7C4DFF,100:FF6D00&height=200&section=header&text=AUTOMATION%20ENGINE&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-Stable-00E676?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Execution-Parallel-FF9100?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Distributed-00B0FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-Smart%20Logic-7C4DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-Advanced-0091EA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance-Optimized-00C853?style=for-the-badge"/>
 </p>
 
 ---
 
-# ⚡ Intelligent Testing System
+# ⚡ SYSTEM INTELLIGENCE
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=4"/>
 </p>
 
-## 🎯 What This Engine Does
+## 🚀 What This Engine Executes
 
-✔ Detects dynamic UI changes  
-✔ Validates search & navigation flows  
-✔ Executes automated form testing  
-✔ Runs cross-browser compatibility checks  
-✔ Captures screenshots on failure  
-✔ Generates structured execution reports  
-✔ Logs stack traces with metadata  
+```
+✔ UI Change Detection
+✔ Smart Form Validation
+✔ Navigation Flow Testing
+✔ Screenshot Capture on Failure
+✔ Cross-Browser Assertions
+✔ Parallel Session Execution
+✔ Structured Report Generation
+```
 
-Designed to simulate real users — at machine speed.
+Simulates real users —  
+but executes with machine precision at cloud scale.
 
 ---
 
-# 🔁 Automation Lifecycle Engine
+# 🔁 LIVE EXECUTION PIPELINE
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F5FF,100:7C4DFF&height=120&section=header&text=Live%20Execution%20Flow&fontColor=ffffff&fontSize=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F5FF,100:7C4DFF&height=140&section=header&text=REAL-TIME%20TEST%20FLOW&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
 </p>
 
 ```text
 Developer Push
       │
       ▼
-CI/CD Triggered
+CI/CD Trigger
       │
       ▼
-AI Test Case Generation
+AI Test Case Builder
       │
       ▼
-Selenium Execution Layer
+Selenium Execution Core
       │
       ▼
 Parallel Cloud Grid
@@ -59,85 +68,85 @@ Parallel Cloud Grid
 Cross-Browser Validation
       │
       ▼
-Assertions + Screenshots
+Assertions + Evidence Capture
       │
       ▼
-Real-Time Dashboard Reporting
+Live Reporting Dashboard
 ```
 
-Every cycle strengthens build reliability.
+Each execution strengthens deployment confidence.
 
 ---
 
-# 🌍 Cross-Browser Gadget Matrix
+# 🌍 CROSS-BROWSER COVERAGE MATRIX
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=header&text=Browser%20Coverage&fontColor=ffffff&fontSize=28"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2B64,100:F8CDDA&height=140&section=header&text=GLOBAL%20COMPATIBILITY&fontColor=ffffff&fontSize=28&animation=fadeIn"/>
 </p>
 
 ```
-Chrome    ██████████ 100%
-Firefox   ██████████ 100%
-Edge      ██████████ 100%
-Safari    ██████████ 100%
+Chrome     █████████████ 100%
+Firefox    █████████████ 100%
+Edge       █████████████ 100%
+Safari     █████████████ 100%
 ```
 
-### 🖥 Supported Operating Systems
+### 🖥 Operating Systems
 
-✔ Windows  
-✔ macOS  
-✔ Linux  
+• Windows  
+• macOS  
+• Linux  
 
-Parallel execution drastically reduces total runtime.
+⚡ Parallel execution drastically reduces total runtime.
 
 ---
 
-# 🧪 Real User Simulation Flow
+# 🧪 USER SIMULATION ENGINE
 
-```text
+```
 Initialize Session
       ↓
-Load Web Application
+Load Application
       ↓
 Locate Dynamic Elements
       ↓
 Inject Test Data
       ↓
-Trigger UI Events
+Trigger UI Actions
       ↓
-Validate Expected Results
+Validate Expected Output
       ↓
-Capture Logs + Evidence
+Capture Logs + Screenshots
       ↓
-Mark PASS / FAIL
+PASS / FAIL Decision
 ```
 
-### Handles Advanced Scenarios
+Handles:
 
 • Dynamic DOM updates  
-• Lazy-loaded components  
-• Async API responses  
-• Stale elements  
+• Lazy loading  
+• Async requests  
+• Stale element recovery  
 • Edge-case validations  
 • Retry logic for flaky tests  
 
 ---
 
-# 📊 Smart Reporting Dashboard
+# 📊 SMART REPORTING CORE
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4350,100:A43931&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,100:004e92&height=4"/>
 </p>
 
-After each execution:
+After execution:
 
-✔ Execution summary generated  
-✔ Browser capabilities logged  
-✔ Failure screenshots attached  
-✔ Stack traces recorded  
-✔ Cloud dashboard updated  
+✔ Summary dashboard generated  
+✔ Browser capability logs stored  
+✔ Stack traces attached  
+✔ Failure evidence embedded  
+✔ Cloud analytics updated  
 
-Artifacts stored in:
+Artifacts saved in:
 
 ```bash
 /reports/
@@ -145,13 +154,13 @@ Artifacts stored in:
 
 ---
 
-# ⚙️ Execution Commands
+# ⚙️ EXECUTION CONTROL PANEL
 
 ```bash
 # Install dependencies
 pip install -r requirements.txt
 
-# Set secure credentials
+# Configure credentials securely
 setx LT_USERNAME "your_username"
 setx LT_ACCESS_KEY "your_access_key"
 
@@ -164,26 +173,26 @@ python tests/main_test.py
 
 ---
 
-# 🔐 Security & Stability Layer
+# 🔐 SECURITY & STABILITY LAYER
 
-• Environment-based credential management  
+• Environment-based credential isolation  
 • No hardcoded secrets  
-• Optimized locator strategies  
-• Intelligent wait mechanisms  
-• Auto-retry for unstable tests  
-• Parallel-safe architecture  
+• Optimized locator hierarchy  
+• Intelligent wait strategies  
+• Auto-retry stability mechanism  
+• Parallel-safe test design  
 
 ---
 
-# 🚀 CI/CD Integration Pipeline
+# 🚀 CI/CD INTEGRATION MATRIX
 
 ```
 Commit → Build → Test → Validate → Deploy
                  │
-                 └── On Failure → Deployment Blocked
+                 └── If Failed → Deployment Blocked
 ```
 
-### Compatible With
+Compatible With:
 
 • GitHub Actions  
 • Jenkins  
@@ -192,7 +201,7 @@ Commit → Build → Test → Validate → Deploy
 
 ---
 
-# 🏗 Architecture Structure
+# 🏗 SYSTEM ARCHITECTURE
 
 ```
 website-testing/
@@ -207,22 +216,22 @@ website-testing/
 
 ---
 
-# 💎 Technical Highlights
+# 💎 TECHNICAL HIGHLIGHTS
 
 ✨ AI-assisted test logic  
 ✨ Cloud-native parallel execution  
 ✨ Cross-browser capability mapping  
 ✨ Smart assertion framework  
 ✨ CI/CD quality gating  
-✨ Scalable automation architecture  
+✨ Scalable automation design  
 
 ---
 
-# 👩‍💻 Author
+# 👩‍💻 AUTHOR
 
 Shruti Sinha  
 Automation Engineer | AI Testing Enthusiast  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C4DFF&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7C4DFF&height=180&section=footer&animation=fadeIn"/>
 </p>
