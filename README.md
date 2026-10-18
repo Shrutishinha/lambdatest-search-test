@@ -1,4 +1,4 @@
-# 🌐 WEBSITE TESTING AUTOMATION ON LAMBDATESThihi
+# 🌐 WEBSITE TESTING AUTOMATION ON LAMBDATEST
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&pause=700&color=00F5FF&center=true&vCenter=true&width=1100&lines=Website+Testing+on+LambdaTest;Cross-Browser+Cloud+Execution;HyperExecute+Parallel+Runs;Screenshot+%26+Log+Evidence+Capture;CI%2FCD+Integrated+Pipeline;Automated+Bug+Reporting" />
 </p>
